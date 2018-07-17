@@ -3,7 +3,7 @@ public class ArraysTest {
 	    public static void main(String args[]){
 	        String[] names = new String [3];
 	        names[0] ="Ashley Kalinda";
-	        names[1] = "Lovit";
+	        names[1] = "Lovit Nsenda";
 	        names[2] = "Frank Nsenda";
 	        char letter = 'a';
 
